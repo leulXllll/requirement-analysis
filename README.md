@@ -24,3 +24,18 @@ Requirements are examined for feasibility, consistency, and completeness, often 
 
 **Requirement Validation
 This ensures that the documented requirements accurately reflect stakeholder needs and are feasible within project constraints.
+
+# Types of Requirements
+
+## 1. Functional Requirements
+- **Definition**: Functional requirements define what the system should do — the features and behaviors.
+- **Examples**:
+  - Users can create, modify, and cancel bookings.
+  - The system sends email confirmations after successful bookings.
+  - Admins can approve or reject pending booking requests.
+## 2. Non-functional Requirements
+- **Definition**: Non-functional requirements describe how the system performs — qualities, constraints, or attributes.
+- **Examples**:
+  - The system should respond to user actions within 2 seconds.
+  - The platform must be available 99.9% of the time.
+  - Booking data must be encrypted in transit and at rest.
