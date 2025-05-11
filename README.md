@@ -40,3 +40,16 @@ This ensures that the documented requirements accurately reflect stakeholder nee
   - The platform must be available 99.9% of the time.
   - Booking data must be encrypted in transit and at rest.
 # Use Case Diagrams.
+![use case diagram](alx-booking-uc.png)
+
+# Acceptance Criteria.
+**Acceptance Criteria** are specific, measurable conditions that a software feature must meet to be accepted by stakeholders. They ensure that everyone—developers, testers, and clients—has a clear, shared understanding of what "done" means. This helps prevent misunderstandings, guides testing, and improves product quality.
+
+### Example: Checkout Feature in a Booking Management System
+
+**Feature**: Checkout
+
+**Acceptance Criteria**:
+- Users must be able to review their booking summary before confirming.
+- The system must calculate the total price including any applicable taxes or discounts.
+- A confirmation email must be sent upon successful payment.
