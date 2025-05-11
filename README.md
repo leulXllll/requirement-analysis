@@ -39,3 +39,4 @@ This ensures that the documented requirements accurately reflect stakeholder nee
   - The system should respond to user actions within 2 seconds.
   - The platform must be available 99.9% of the time.
   - Booking data must be encrypted in transit and at rest.
+# Use Case Diagrams.
